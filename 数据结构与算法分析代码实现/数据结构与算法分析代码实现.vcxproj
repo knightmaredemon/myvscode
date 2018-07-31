@@ -120,6 +120,7 @@
   <ItemGroup>
     <ClCompile Include="List.c" />
     <ClCompile Include="test.c" />
+    <ClCompile Include="基数排序.cpp" />
     <ClCompile Include="链表多项式的运算.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

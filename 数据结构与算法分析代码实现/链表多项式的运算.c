@@ -182,7 +182,7 @@ List* mult_polynomial(List* list_in1, List* list_in2)
 	return prod;
 }
 
-int main()
+int main____()
 {
 	List* poly1 = (List*)malloc(sizeof(List));
 	List* poly2 = (List*)malloc(sizeof(List));

@@ -5,12 +5,12 @@
 #include <map>
 #include <algorithm>
 #include <string>
-#include <WINSOCK2.H>
-using namespace std;
 
+using namespace std;
 void print()
 {
-	
+	shared_ptr<int> dtr;
+	weak_ptr<int> we;
 }
 
 template <typename T,typename... Types>

@@ -9,7 +9,7 @@ int main__()
 
 	return 0;
 }
-int main__()
+int main___()
 {
 
 
