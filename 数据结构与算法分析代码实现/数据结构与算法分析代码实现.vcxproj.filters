@@ -32,5 +32,17 @@
     <ClCompile Include="基数排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="多重表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈的应用_平衡符号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中缀转后缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树_后缀转表达式树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -62,7 +62,7 @@ void radix_sort(int arr[], int length)
 	}
 }
 
-int main()
+int main_radix_sort()
 {
 	int arr[10] = { 64,8,216,512,27,729,0,1,343,125 };
 	radix_sort(arr, 10);

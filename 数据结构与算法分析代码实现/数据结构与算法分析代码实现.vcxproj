@@ -120,7 +120,11 @@
   <ItemGroup>
     <ClCompile Include="List.c" />
     <ClCompile Include="test.c" />
+    <ClCompile Include="中缀转后缀.cpp" />
+    <ClCompile Include="二叉树_后缀转表达式树.cpp" />
     <ClCompile Include="基数排序.cpp" />
+    <ClCompile Include="多重表.cpp" />
+    <ClCompile Include="栈的应用_平衡符号.cpp" />
     <ClCompile Include="链表多项式的运算.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
