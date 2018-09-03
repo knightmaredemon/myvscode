@@ -121,6 +121,7 @@
     <ClCompile Include="List.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="中缀转后缀.cpp" />
+    <ClCompile Include="二叉查找树的实现.cpp" />
     <ClCompile Include="二叉树_后缀转表达式树.cpp" />
     <ClCompile Include="基数排序.cpp" />
     <ClCompile Include="多重表.cpp" />

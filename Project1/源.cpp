@@ -92,8 +92,35 @@ void test_decltype(T obj)
 	
 }
 
+class MyString
+{
+private:
+	char* m_cData;
+
+public:
+	MyString()
+	{
+		m_cData = NULL;
+	}
+
+
+	MyString(const MyString& str)
+	{
+		int a = 0;
+	}
+
+	MyString(MyString&& str)
+	{
+		int a = 0;
+	}
+};
+
 int main()
 {
+
+	MyString s1;
+	MyString s2(s1);
+
 
 	int ccc = 10;
 	int bbb = 1;

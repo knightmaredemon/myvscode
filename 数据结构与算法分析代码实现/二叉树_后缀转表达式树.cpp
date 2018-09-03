@@ -66,7 +66,7 @@ void print_node(BinaryTreeNode* pRoot)
 	std::cout << pRoot->m_cValue;
 }
 
-int main()
+int main_midfix_postfix()
 {
 	char postfix[] = "ab+cde+**";
 	BinaryTreeNode* pRoot = create_exp_BinaryTree(postfix, strlen(postfix));

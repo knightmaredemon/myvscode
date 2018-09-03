@@ -44,5 +44,8 @@
     <ClCompile Include="二叉树_后缀转表达式树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二叉查找树的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
